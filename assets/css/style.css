@@ -469,7 +469,7 @@ footer {
 
 @media (max-width: 991.98px) {
   .intro {
-    padding: 220px 0px 40px 0px;
+    padding: 200px 0px 40px 0px;
   }
 }
 
@@ -510,7 +510,7 @@ footer {
 
 @media (max-width: 991.98px) {
   .process {
-    padding: 70px 0 100px;
+    padding: 70px 0 80px;
   }
 }
 
@@ -595,6 +595,12 @@ footer {
 
 .service {
   padding: 158px 0;
+}
+
+@media (max-width: 991.98px) {
+  .service {
+    padding: 70px 0 100px;
+  }
 }
 
 .service__inner {
@@ -689,7 +695,7 @@ footer {
 
 @media (max-width: 991.98px) {
   .countdown {
-    padding: 125px 0 152px;
+    padding: 100px 0;
   }
 }
 
@@ -717,7 +723,7 @@ footer {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
-    grid-gap: 50px;
+    grid-gap: 100px 30px;
   }
 }
 
