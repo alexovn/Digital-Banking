@@ -619,6 +619,12 @@ footer {
   }
 }
 
+@media (max-width: 991.98px) {
+  .service__inner {
+    padding: 0;
+  }
+}
+
 .service__content {
   margin: 70px 0px 0px 0px;
 }
